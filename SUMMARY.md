@@ -6,7 +6,7 @@
 * [Пояснювальна записка](poyasnuvalna_zapyska.md)
 
 ### 1 Клас
-* [1 клас](1/1_klas.md)
+* [1 клас](1/1_klas.md) 
    * [Вступ](1/vstup.md)
    * [Папір. Види і властивості паперу](1/papir_vуdу_i_vlastуvosti_paperu.md)
    * [Рвання паперу](1/rvannya_paperu.md)

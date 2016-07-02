@@ -42,7 +42,7 @@
     <td width="12%" align="center" style="vertical-align:top !important;">
 4.</td>
     <td width="40%" style="vertical-align:top !important;">
-<a href="http://workmon14-new.ed-era.com/3/origami.html">Оригамі</a></td>
+<a href="http://workmon14-new.ed-era.com/3/orygami.html">Оригамі</a></td>
     <td width="12%" align="center" style="vertical-align:top !important;">
 </td>
   </tr>
