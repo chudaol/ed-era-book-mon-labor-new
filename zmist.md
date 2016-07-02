@@ -60,7 +60,7 @@
       <li><a href="http://workmon14-new.ed-era.com/variat/choreo/3.html">3 рік вивчення</a></li>
       <li><a href="http://workmon14-new.ed-era.com/variat/choreo/4.html">4 рік вивчення</a></li>
       </ul>
-      <li><a href="http://workmon14-new.ed-era.com/variat/swim/zmist.html">Футбол</a></li>
+      <li><a href="http://workmon14-new.ed-era.com/variat/swim/zmist.html">Плавання</a></li>
       <ul type="square">
       <li><a href="http://workmon14-new.ed-era.com/variat/swim/1.html">1 рік вивчення</a></li>
       <li><a href="http://workmon14-new.ed-era.com/variat/swim/2.html">2 рік вивчення</a></li>
