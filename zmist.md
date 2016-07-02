@@ -49,7 +49,7 @@
 <li><a href="http://workmon14-new.ed-era.com/3/v%D1%83t%D1%83nanka.html">Витинанка</a></li>
 <li><a href="http://workmon14-new.ed-era.com/3/mozayika.html">Мозаїка</a></li>
 <li><a href="http://workmon14-new.ed-era.com/3/kviling.html">Квілінг</a></li>
-<li><a href="http://workmon14-new.ed-era.com/3/orygami.html">Оригамі</a></li>
+<li><a href="http://workmon14-new.ed-era.com/3/or%D1%83gami.html">Оригамі</a></li>
 <li><a href="http://workmon14-new.ed-era.com/3/robota_z_plast%D1%83linom.html">Робота з пластичними матеріалами</a></li>
 <li><a href="http://workmon14-new.ed-era.com/3/kombinuvannya_pr%D1%83rodn%D1%83kh_i_plast%D1%83chn%D1%83kh_materialiv.html">Комбінування природних і пластичних матеріалів</a></li>
 <li><a href="http://workmon14-new.ed-era.com/3/aplikatsiya_z_tkan%D1%83n%D1%83.html">Аплікація з тканини</a></li>
