@@ -11,20 +11,11 @@
     <td width="12%" align="center"><b>Кількість годин</b></td>
   </tr>
 <tbody>
-  <tr>
-    <td width="12%" align="center" style="vertical-align:top !important;">
-1.</td>
-    <td width="40%" style="vertical-align:top !important;">
-<a href="http://workmon14-new.ed-era.com/3/vуtуnanka.html">Витинанка</a></td>
-    <td width="12%" align="center" style="vertical-align:top !important;">
-</td>
-  </tr>
-  </tr>
 </thead>
 <tbody>
   <tr>
     <td width="12%" align="center" style="vertical-align:top !important;">
-2.</td>
+1.</td>
     <td width="40%" style="vertical-align:top !important;">
 <a href="http://workmon14-new.ed-era.com/3/mozayika.html">Мозаїка</a></td>
     <td width="12%" align="center" style="vertical-align:top !important;">
@@ -32,7 +23,7 @@
   </tr>
   <tr>
     <td width="12%" align="center" style="vertical-align:top !important;">
-3.</td>
+2.</td>
     <td width="40%" style="vertical-align:top !important;">
 <a href="http://workmon14-new.ed-era.com/3/kviling.html">Квілінг</a></td>
     <td width="12%" align="center" style="vertical-align:top !important;">
@@ -40,9 +31,17 @@
   </tr>
   <tr>
     <td width="12%" align="center" style="vertical-align:top !important;">
+3.</td>
+    <td width="40%" style="vertical-align:top !important;">
+<a href="http://workmon14-new.ed-era.com/3/kombinuvannya_prуrodnуkh_i_plastуchnуkh_materialiv.html">Комбінування природних і пластичних матеріалів</a></td>
+    <td width="12%" align="center" style="vertical-align:top !important;">
+</td>
+  </tr>
+  <tr>
+    <td width="12%" align="center" style="vertical-align:top !important;">
 4.</td>
     <td width="40%" style="vertical-align:top !important;">
-<a href="http://workmon14-new.ed-era.com/3/or%D1%83gami.html">Оригамі</a></td>
+<a href="http://workmon14-new.ed-era.com/3/or%D1%83gami.html">Орігамі</a></td>
     <td width="12%" align="center" style="vertical-align:top !important;">
 </td>
   </tr>
@@ -50,15 +49,16 @@
     <td width="12%" align="center" style="vertical-align:top !important;">
 5.</td>
     <td width="40%" style="vertical-align:top !important;">
-<a href="http://workmon14-new.ed-era.com/3/robota_z_plastуlinom.html">Робота з пластичними матеріалами</a></td>
+<a href="http://workmon14-new.ed-era.com/3/vуtуnanka.html">Витинанка</a></td>
     <td width="12%" align="center" style="vertical-align:top !important;">
 </td>
+  </tr>
   </tr>
   <tr>
     <td width="12%" align="center" style="vertical-align:top !important;">
 6.</td>
     <td width="40%" style="vertical-align:top !important;">
-<a href="http://workmon14-new.ed-era.com/3/kombinuvannya_prуrodnуkh_i_plastуchnуkh_materialiv.html">Комбінування природних і пластичних матеріалів</a></td>
+<a href="http://workmon14-new.ed-era.com/3/robota_z_plastуlinom.html">Робота з пластичними матеріалами</a></td>
     <td width="12%" align="center" style="vertical-align:top !important;">
 </td>
   </tr>
